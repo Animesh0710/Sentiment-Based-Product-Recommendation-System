@@ -12,11 +12,10 @@ The e-commerce business is quite popular today. Here, you do not need to take or
 
 * github link: https://github.com/Animesh0710/Sentiment-Based-Product-Recommendation-System
 
-* Heroku (Application is Live): https://senti-product-recommendation.herokuapp.com/
+* Heroku (Application is Live): (https://sentimentrecommendation-7d3a1dc0c309.herokuapp.com/)
 
 ### Built with
 
-* Python 3.9.7
 * scikit-learn 1.6.1
 * xgboost 1.5.1
 * numpy 1.26.0
